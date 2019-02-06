@@ -1,0 +1,28 @@
+.caution {
+    font-size: 150px;
+    color: red;
+    text-align: center;
+    
+}
+p {
+    font-size: 120px;
+    text-align: center;
+    
+}
+.donateSection {
+    text-align: center;
+}
+button {
+    padding: 10px;
+    margin: 30px;
+    
+}
+.images > img {
+    width: 30%;
+    height: 30%;
+}
+.images {
+    display: flex;
+    justify-content: center;
+    
+}
